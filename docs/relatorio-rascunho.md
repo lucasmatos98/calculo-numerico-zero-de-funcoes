@@ -11,4 +11,4 @@ Utlizando a linguagem Python, lingua franca entre os integrates do grupo.
 Criamos uma função que retorna o valor da equação de Butler-Volmer.
 
 Criamos um função recursiva para determinar o x aproximado usando a função de bissecção
-Definimos manualmente alfa e beta conforme instruído, e arbitrariamente um valor "n" igual a 1000 para limitar o número de iterações e um valor "e" igual a 10⁻⁷ de tolerância
+Definimos manualmente alfa e beta conforme instruído, e arbitrariamente um valor "n" igual a 1000 para limitar o número de iterações e um valor "e" igual a 10⁻⁴ de tolerância
