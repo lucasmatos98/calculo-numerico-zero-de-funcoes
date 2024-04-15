@@ -1,3 +1,11 @@
+# ----------------------------------------------------------------------------
+# Matéria: MS211 H
+# Grupo: 
+# Gabriel Oliveira Almeida Silva - 256397
+# Lucas Matos de Almeida - 182623
+# Michell Henrique Lucino - 242056
+# Octávio Augusto Barquilia do Nascimento - 241327
+# ----------------------------------------------------------------------------
 import math
 from tabulate import tabulate
 
