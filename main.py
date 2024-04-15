@@ -10,7 +10,7 @@ import math
 from tabulate import tabulate
 
 n = 1000  # número máximo de iterações
-e = 10 ** (-5)  # tolerância
+e = 10 ** (-4)  # tolerância
 a, b = (3, 4)  # intervalo
 alfa = 0.2
 beta = 2
