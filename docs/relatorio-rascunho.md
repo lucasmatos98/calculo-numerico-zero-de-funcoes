@@ -11,4 +11,9 @@ Utlizando a linguagem Python, lingua franca entre os integrates do grupo.
 Criamos uma função que retorna o valor da equação de Butler-Volmer.
 
 Criamos um função recursiva para determinar o x aproximado usando a função de bissecção
-Definimos manualmente alfa e beta conforme instruído, e arbitrariamente um valor "n" igual a 1000 para limitar o número de iterações e um valor "e" igual a 10⁻⁴ de tolerância
+Definimos manualmente alfa e beta conforme instruído, e arbitrariamente um valor "n" igual a 1000 para limitar o número de iterações e um valor "e" igual a 10⁻⁴ de tolerância. A função Secante calcula iterativamente novas estimativas da raiz usando uma fórmula que aproxima a derivada da função entre dois pontos. Ele continua atualizando as estimativas até que uma das condições de parada seja atendida: a diferença entre as estimativas é menor que a tolerância, o valor da função na estimativa é menor que a tolerância ou o número máximo de iterações é atingido. A função metodo_secante adiciona os resultados de cada iteração à lista de saída, incluindo os valores das estimativas anteriores e a próxima estimativa, juntamente com o número da iteração.
+
+
+
+
+
